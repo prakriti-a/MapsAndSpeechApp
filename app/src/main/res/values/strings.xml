@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Maps And Speech App</string>
+    <string name="speech_supported">This device supports speech recognition!</string>
+    <string name="speech_not_supported">This device does not support speech recognition!</string>
+    <string name="talk">Talk to the Device!</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="open_map">Open Maps</string>
+</resources>
